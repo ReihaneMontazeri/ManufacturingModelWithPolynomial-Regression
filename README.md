@@ -1,2 +1,3 @@
 # ManufacturingModelWithPolynomial-Regression
-In this project, I tried to look through the dataset and found a relation which could'nt be handled with regression methods I had used before. So this time I tried polynomial regression to see whether it works better or not.
+In this project, I tried to look through the dataset and found a relation which could'nt be handled with regression methods I had used before. So this time I tried polynomial regression to see whether it works better or not. With some overview in the dataset and comparison between simple linear regression and polynomial linear regression, we can see how better the models work if we use the second method. So with this dataset, there are two models developed so you can see how the R2_score is differete and be able to get a better intuition of how this algorithm works.
+Good luck!
